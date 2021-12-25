@@ -38,25 +38,27 @@ class Wallpaper {
 
 const domObj = document.getElementById('target');
 
-////あちょ
+//あちょ 1変えます！
 const wallpaper1 = new Wallpaper(
-  'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away. - Antoine de Saint',
+  '私の成功の原因はこれだ。私は決して自分で言い訳をしなかったし、他人の言い訳を決して受け入れなかった。',
   '2c3e50',
-  'https://recursionist.io/img/different-job.png',
+  'https://cdn.pixabay.com/photo/2016/11/08/05/20/sunset-1807524_960_720.jpg',
   '1'
 );
-
+// Sorasuke 2 変えます! live share便利笑
+// section chat了解です！
 const wallpaper2 = new Wallpaper(
-  'The scientist discovers a new type of material or energy and the engineer discovers a new use for it. - Gordon Lindsay Glegg',
+  'Leave nothing for tomorrow which can be done today. - Abraham Lincoln',
   'ecf0f1',
-  'images/laptop-3174729_1280.jpg',
+  'https://i.imgur.com/9eQhOoM.jpg',
   '2'
 );
+// haruki 変更します　
 
 const wallpaper3 = new Wallpaper(
-  'Scientists study the world as it is, engineers create the world that never has been. - Theodore von Karman',
+  'もっともむずかしい事は！自分を乗り越える事さ！',
   'ecf0f1',
-  'images/robot-2301646_1280.jpg',
+  'https://blog.kimini.online/blog/wp-content/uploads/2020/07/desert-1270345_1920-1118x538.jpg',
   '3'
 );
 
