@@ -38,36 +38,27 @@ class Wallpaper {
 
 const domObj = document.getElementById('target');
 
-//あちょ 1変えます！
 const wallpaper1 = new Wallpaper(
-  '私の成功の原因はこれだ。私は決して自分で言い訳をしなかったし、他人の言い訳を決して受け入れなかった。',
+  'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away. - Antoine de Saint',
   '2c3e50',
-  'https://cdn.pixabay.com/photo/2016/11/08/05/20/sunset-1807524_960_720.jpg',
+  'https://recursionist.io/img/different-job.png',
   '1'
 );
-// Sorasuke 2 変えます! live share便利笑
-// section chat了解です！
+
 const wallpaper2 = new Wallpaper(
-  'Leave nothing for tomorrow which can be done today. - Abraham Lincoln',
+  'The scientist discovers a new type of material or energy and the engineer discovers a new use for it. - Gordon Lindsay Glegg',
   'ecf0f1',
-  'https://i.imgur.com/9eQhOoM.jpg',
+  'images/laptop-3174729_1280.jpg',
   '2'
 );
-// haruki 変更します　
 
 const wallpaper3 = new Wallpaper(
-  'もっともむずかしい事は！自分を乗り越える事さ！',
+  'Scientists study the world as it is, engineers create the world that never has been. - Theodore von Karman',
   'ecf0f1',
-  'https://blog.kimini.online/blog/wp-content/uploads/2020/07/desert-1270345_1920-1118x538.jpg',
+  'images/robot-2301646_1280.jpg',
   '3'
 );
 
 domObj.append(motivationalSpeechWallpaper(wallpaper1));
 domObj.append(motivationalSpeechWallpaper(wallpaper2));
 domObj.append(motivationalSpeechWallpaper(wallpaper3));
-
-
-
-//////////depelop branch test
-//////////depelop branch test
-////修正完了しました！！！！！
