@@ -73,3 +73,10 @@ domObj.append(motivationalSpeechWallpaper(wallpaper3));
 ////修正完了しました！！！！！
 
 ///conflictしないでください><
+///conflictしないでください><
+///conflictしないでください><
+///conflictしないでください><
+///conflictしないでください><
+///conflictしないでください><
+///conflictしないでください><
+///conflictしないでください><
