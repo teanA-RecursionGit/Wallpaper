@@ -62,3 +62,21 @@ const wallpaper3 = new Wallpaper(
 domObj.append(motivationalSpeechWallpaper(wallpaper1));
 domObj.append(motivationalSpeechWallpaper(wallpaper2));
 domObj.append(motivationalSpeechWallpaper(wallpaper3));
+<<<<<<< HEAD
+=======
+
+
+
+//////////depelop branch test
+//////////depelop branch test
+////修正完了しました！！！！！
+
+///conflictしないでください><
+///conflictしないでください><
+///conflictしないでください><
+///conflictしないでください><
+///conflictしないでください><
+///conflictしないでください><
+///conflictしないでください><
+///conflictしないでください><
+>>>>>>> 880102734c6c75b3945ee4eeb79f855aa6016ebb
