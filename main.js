@@ -38,7 +38,7 @@ class Wallpaper {
 
 const domObj = document.getElementById('target');
 
-////
+////あちょ
 const wallpaper1 = new Wallpaper(
   'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away. - Antoine de Saint',
   '2c3e50',
