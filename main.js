@@ -70,3 +70,4 @@ domObj.append(motivationalSpeechWallpaper(wallpaper3));
 
 //////////depelop branch test
 //////////depelop branch test
+////修正完了しました！！！！！
